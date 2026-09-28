@@ -2,7 +2,7 @@
 
 I'm an undergraduate student at Fudan University, expecting to graduate in 2028.
 
-My research interests lie in vision-language models (VLMs) and generative models.
+My research interests lie in vision-language models (e.g. video understanding, grounding) and generative models (e.g. t2v t2i, world model). I also read about mechinterp. and representation learning.
 
 📄 [Curriculum Vitae](https://lan-kehan.github.io/cv/?utm_source=github&utm_medium=profile&utm_campaign=cv)
 
